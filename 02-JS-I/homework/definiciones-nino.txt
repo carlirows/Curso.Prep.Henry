@@ -1,0 +1,6 @@
+
+Variables // una variable es una forma de asignarle valor a algo y guardar esa informacion para usarla más tarde
+Strings  //  un string es un dato de texto
+Funciones (argumentos, return)  //  es un objeto que almacena informacion, dentro de ese objeto podemos encontrar variables que se denominan argumentos, para poder acceder a la informacion de nuestra funcion debemos usar return
+Declaraciones if  //  es una forma de verificar si un algo es o no es y las consecuencias de eso 
+Valores booleanos (true, false)  //  te dan la opcion de activar o desactivar algo
