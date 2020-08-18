@@ -1,0 +1,23 @@
+loop for:
+es un metodo automatizado que permite revisar los diferentes elementos 
+de una lista para comprobar si cumplen o no con ciertas condiciones.
+
+&&:
+es un operador que nos permite añadir condiciones a una afirmacion.
+supongamos que la condición para entrar a un parque de diversiones es que 
+debes tener más de trece años, pero para subirte a la montaña rusa 
+debes tener más de 13 años Y tu estatura minima debe ser de 160 mts. Esas
+dos condiciones de edad y altura se añaden con el operador &&
+
+||:
+similar a && nos permite añadir condiciones a una afirmación. Literalmente,
+||, significa "o". Ahora supongamos que vamos al mismo parque de diversiones
+y antes de subir a la montaña rusa te preguntan si tienes al menor trece años,
+sino tienes trece años los operadores de la montaña rusa verificaran tu altura,
+si mides al menos 1.60 mts puedes subir a la montaña rusa, de lo contrario no. 
+
+!:
+es un operador de comparacion, usualmente se usa así: !== y literalmente significa
+no es igual. En ese orden de ideas podemos decir que ! significa NO se usa para negar
+algo o para decir que un elemento no es igual a otro 
+  

@@ -1,0 +1,5 @@
+Array:
+es una variable que puede tener muchos valores asignados, no sólo uno. es como una lista
+de elementos que han sido agrupados bajo el mismo nombre, como los estudiantes de un 
+salón de clase en particular todos pertenecen al grupo salón, pero el grupo salón tiene 
+diferentes alumnos asignados.
